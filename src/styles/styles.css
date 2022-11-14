@@ -1,0 +1,22 @@
+@import "~normalize.css";
+
+
+.container {
+    padding-top: 2px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    background-size: cover;
+    height: 200px;
+    width: 500px;
+    background-image: url("../assets/filerooms-logo.svg");
+
+    margin: 0 auto;
+
+}
